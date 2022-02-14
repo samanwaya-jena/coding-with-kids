@@ -10,6 +10,8 @@ them some skills that will help them with their own lives,
 but also create or *strengthen some lasting bonds* between you
 and them.
 
+Here is some new content from VS Code.
+
 **Throughout your journey** you will both likely learn New
 concepts and terms that will ``expand your`` horizons and provide
 ``hours of enjoyment``
