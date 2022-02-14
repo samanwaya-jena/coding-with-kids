@@ -10,7 +10,7 @@ them some skills that will help them with their own lives,
 but also create or *strengthen some lasting bonds* between you
 and them.
 
-Here is some new content from VS Code.
+Here is some new content from VS Code. Some extra stuff.
 
 And here is some more change  --- from Github.
 
