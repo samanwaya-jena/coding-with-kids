@@ -12,6 +12,8 @@ and them.
 
 Here is some new content from VS Code. Some extra stuff.
 
+Here is a **Shiny** new note .
+
 And here is some more change  --- from Github.
 
 
